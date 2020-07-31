@@ -6,7 +6,7 @@ This Project uses -
   - MongoDB as a database to store the reviews
   - BeautifulSoup for Web Parser
 
-A glimpse of the web app is shown below
+A glimpse of the web app is shown below :-
 
 ![](images/WebScrapperScreenRecord.gif)
 
